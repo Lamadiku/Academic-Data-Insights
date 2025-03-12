@@ -1,0 +1,6 @@
+EnrollmentID,StudentID,CourseID,Semester,Grade
+301,1,101,Fall 2023,A
+302,2,102,Fall 2023,B
+303,3,103,Fall 2023,C
+304,4,104,Fall 2023,D
+305,5,105,Fall 2023,F
